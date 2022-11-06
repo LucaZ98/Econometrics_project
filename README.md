@@ -24,4 +24,4 @@ volatility** exploiting three different methods:
 
 ## Personal Contribution
 
-I personally contributed to the development of the **first two items** on the list.
+I personally contributed to the development of the **first two bullett points** on the list.
